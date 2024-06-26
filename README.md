@@ -1,5 +1,6 @@
 # VALVE-3RD-TURN
 #FREEVALVE  https://discord.gg/q7RYfmje
+https://steamcommunity.com/app/440/discussions/0/4406290986178481007/
 
 
 # If you are here, you are a Valve End-User who wants to see Valve do better.
