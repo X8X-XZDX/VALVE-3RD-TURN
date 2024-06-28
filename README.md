@@ -21,8 +21,3 @@ https://steamcommunity.com/app/440/discussions/0/4406290986178481007/
 
 
 
-# What can I do while a proposal is worked out?
-
-Do me a favor.  Install banana, go ham, we will all as one unit dilute the market.  If you profit from it, thats your choice.  But we will take the latest edition of this issue of Valve having Profiteering as their agenda, and make a mess out of it.
-
-O7 good luck soldiers, The Team, The Community, and Steam itself, rests on us, and our actions (allegedly).
