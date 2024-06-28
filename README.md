@@ -2,7 +2,7 @@
 
 ### DISCLAIMER:  This is meant to be a project for the ENTIRE STEAM COMMUNITY.  If a rebase to another repo is needed for a "noncempetitive" use, fair.
 
-If you weant to add a proposal, send one.  If you have ANY issue with steam, valve, the games from Valve specifically, or your user experience compared to other platforms, PLEASE, make an issue submission on the issues page.  The community can rank them.
+If you want to add a proposal, send one.  If you have ANY issue with steam, valve, the games from Valve specifically, or your user experience compared to other platforms, PLEASE, make a contribution on the issues page.  The community can rank them.
 
 If you want to help, and make a real change, please, contribute.
 
