@@ -1,4 +1,25 @@
 # VALVE-3RD-TURN
+
+DISCLAIMER:  This is meant to be a project for the ENTIRE STEAM COMMUNITY.  If a rebase to another repo is needed for a "noncempetitive" use, fair.
+
+If you weant to add a proposal, send one.  If you have ANY issue with steam, valve, the games from Valve specifically, or your user experience compared to other platforms, PLEASE, make an issue submission on the issues page.  The community can rank them.
+
+If you want to help, and make a real change, please, contribute.
+
+FAQ:
+
+Q Is this #KillValve?
+A This is an effort to stop corporate rot of a company half built out of its userbase's contributions
+
+Q How can I help?
+A Add to the github
+
+Q Why github?
+A The original creator of this project, XZDX, does not want fame, fortune, or power.  They want to be able to buy a steam deck some day, from VALVE, not SGG-Owned Valve, or anyother possible buyout.
+
+Q Why is there fear of a buyout?
+A Activision was in a similar place in the late 90's.  They had lots of IP, lots of tech, but due to C Suite abandonment, not being "True Activision", and holding everything behind a gate, they got bvought out after they burned all their money on crunch.  Valve has been doing the exact same thing that lead to Activision dying in 98 for the last 8 years.  Now, with hardware dev, game releases that go unmanaged, and time spent gatekeeping new hires, they will end up in the exact same spot, being open to purchase by Embracer or SGG.
+
 #FREEVALVE  https://discord.gg/q7RYfmje
 https://steamcommunity.com/app/440/discussions/0/4406290986178481007/
 
