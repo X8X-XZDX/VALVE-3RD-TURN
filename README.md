@@ -6,22 +6,11 @@ If you weant to add a proposal, send one.  If you have ANY issue with steam, val
 
 If you want to help, and make a real change, please, contribute.
 
-## FAQ:
 
-### Q Is this #KillValve?
-
-### A This is an effort to stop corporate rot of a company half built out of its userbase's contributions
-
-### Q How can I help?
-
-### A Add to the github
-
-### Q Why github?
-
-### A The original creator of this project, XZDX, does not want fame, fortune, or power.  They want to be able to buy a steam deck some day, from VALVE, not SGG-Owned Valve, or anyother possible buyout.
 
 #FREEVALVE  https://discord.gg/q7RYfmje
 https://steamcommunity.com/app/440/discussions/0/4406290986178481007/
+
 
 
 # If you are here, you are a Valve End-User who wants to see Valve do better.
