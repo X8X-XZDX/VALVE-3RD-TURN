@@ -28,7 +28,7 @@ This Github is founded in order to create real feedback, with signatures, saying
 
 With this feedback loop for Valve, it is hoped that with more End-User perspectives, bad-to-worst case scenarios can be avoided, and the platform be built on user contributions, just like in years past working with mod teams.
 
-Only, this time, the users mod Steam.
+Only, this time, the users mod Steam/Valve.
 
 
 
