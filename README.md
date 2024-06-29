@@ -15,7 +15,7 @@ https://steamcommunity.com/app/440/discussions/0/4406290986178481007/
 
 # If you are here, you are a Valve End-User who wants to see Valve do better.
 
-# If you are a User who has spent money on Steam, you are Valve's Investor Funding.
+# If you are a User who has spent money on Steam, Valve is responsible to provide you a service for the funds they have received.
 
 # If you are an employee for Valve, or your company is Affiliated with Valve, you may have had problems related to Valve, whether on or off premesis.
 
