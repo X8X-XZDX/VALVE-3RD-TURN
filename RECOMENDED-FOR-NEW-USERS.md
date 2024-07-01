@@ -1,5 +1,14 @@
 Author: X8X_XZDX
 
+# For All New Contributors
+
+This is a simple help file to get started.
+
+To get started with this Github Repo, first, login.  You can use a Google account, Microsoft Account, or, create an Account.
+
+Below you will find a simple list of tools to help you get started.  The only requirement, AT MINIMUM, is that you get a Github client on your desktop.  Or use git, it doesn't matter, but a recommended tool, GitButler, is listed below.  This will be the most flexible tool for the job.
+
+
 # Recommended Tools for Working On V3T Github
 
 Just a short list of tools for people to use on the github.  This is by no means a requirement, but definitely recommended for sake of simplicity, ease of use, a full streamlined process that you only need learn how to use with a few google searches or BingGPT questions, and you're off to the races like the rest of us.
