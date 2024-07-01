@@ -2,12 +2,6 @@
 
 ### DISCLAIMER:  This is meant to be a project for the ENTIRE STEAM COMMUNITY.  If a rebase to another repo is needed for a "noncempetitive" use, fair.
 
-If you want to add a proposal, send one.  If you have ANY issue with steam, valve, the games from Valve specifically, or your user experience compared to other platforms, PLEASE, make a contribution on the issues page.  The community can rank them.
-
-If you want to help, and make a real change, please, contribute.
-
-
-
 #FREEVALVE  https://discord.gg/q7RYfmje
 https://steamcommunity.com/app/440/discussions/0/4406290986178481007/
 
@@ -19,6 +13,7 @@ https://steamcommunity.com/app/440/discussions/0/4406290986178481007/
 
 # If you are an employee for Valve, or your company is Affiliated with Valve, you may have had problems related to Valve, whether on or off premesis.
 
+## The Valve hasn't turned thrice, the well has run dry, now the community needs to be the water source.
 
 The basis for this github is for Users of Steam / Valve Products, who have a problem with a product, conduct of the company, or with the platform Steam, to be able to contribute ideas, or general issues, in a format similar to how Valve works, in order to contribute to solving the issue, rather than sending blank demands.  Part of the history of Valve is working with the modding community.  As it stands, parts of the modding community have been selectively muted, and this is a problem.  Not so disimilar to new hires / contractors being held back from contribution because they are not "Real Valve" yet, as reports have stated.
 
