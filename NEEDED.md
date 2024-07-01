@@ -17,3 +17,11 @@ Steam
   Social Media Designs
   
 Someone else besides XZDX who gives a fuck about their favorite games, and community.
+
+
+
+
+
+Github
+
+  Contributors
