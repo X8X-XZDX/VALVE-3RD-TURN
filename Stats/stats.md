@@ -16,3 +16,5 @@
 | Twitch Rejection | 5 |
 
 **Rejection meaning said no.  Could follow ban.
+
+Notated by XZDX
