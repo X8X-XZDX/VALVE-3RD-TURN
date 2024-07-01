@@ -31,9 +31,9 @@ Free mindmap / complexDoc tool.
 
 -------------------------------------------
 
-GitButler:  https://gitbutler.com/
+Github Desktop:  https://github.com/apps/desktop
 
-A tool to log in to github with, after your initial login (you can use a google account), to push files to the repo, and to pull new files when there is an update.  This tool should be used in close synch with Notepad++.
+The Github desktop app.  There are others, such at gitbutler, but upon further inspection, I want to recommend the default to any new users.
 
 --------------------------------------------------
 
