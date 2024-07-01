@@ -8,6 +8,7 @@ To get started with this Github Repo, first, login.  You can use a Google accoun
 
 Below you will find a simple list of tools to help you get started.  The only requirement, AT MINIMUM, is that you get a Github client on your desktop.  Or use git, it doesn't matter, but a recommended tool, GitButler, is listed below.  This will be the most flexible tool for the job.
 
+### The total Download size of this repo, for now, is less than 2mb.
 
 # Recommended Tools for Working On V3T Github
 
@@ -16,8 +17,6 @@ Just a short list of tools for people to use on the github.  This is by no means
 These are either Free ($$$) tools, or Free (FOSS) tools.  At the end of the day, if you don't care, you'll not need to pay for this software at any point.  However, if you can, it would be appreciated by the developers.
 
 ---------------------------------------------------------
-
-
 
 LibreOffice:  https://www.libreoffice.org/
 
@@ -48,8 +47,6 @@ Gihub Documentation:  https://docs.github.com/en
 If you have any questions about Github, Markdown, Formatting, Everything, it should be findable in here, to some extent.  If not, try GPT, and not the bing one, the closed one on the OpenAI website.
 
 -------------------------------------------------------
-
-
 
 
 Any further tools will be added as needed.
