@@ -12,6 +12,10 @@ Thesis+
 There are a few elements when thinking abount the future of Valve.
 
 1 Hardware Development
+    1a. Developing with the Steam Deck
+    1b. Hardware Changes for VR
+        1ba. VR+Deck for Portable Office
+
 2 Software Compatibility
 3 The Portability of Both in Combo
 4 Making ALL Elements User Servicable / Moddable
