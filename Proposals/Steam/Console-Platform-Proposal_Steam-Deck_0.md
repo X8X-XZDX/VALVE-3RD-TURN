@@ -9,7 +9,7 @@ Interface -- Steam / ModHub\OpenForum
 Thesis+
 +++++++
 
-There are a few elements when thinking abount the future of Valve.
+There are a few elements when thinking about the future of Valve.
 
 1 Hardware Development
     1a. Developing with the Steam Deck
