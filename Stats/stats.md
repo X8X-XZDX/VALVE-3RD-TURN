@@ -1,10 +1,9 @@
 # Stats for Github Joins / Rejects
 
-| Accepted invite to | Github |
-|--------------------|--------|
-| Twitch | 1 |
-| Steam | 2 |
-| Discord Joins | 2 |
+| Accepted invite to | Github | Discord |
+|--------------------|--------|---------|
+| Twitch | 1 | . |
+| Steam | 2 | 2 |
 
 
 | Banned for Introducing | Github |
