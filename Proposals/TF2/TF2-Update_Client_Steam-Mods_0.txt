@@ -1,3 +1,60 @@
 Author:  X8X_XZDX
 
-WIP
+Pathway to TF2 Client Update
+
+Contents Proposed+
+++++++++++++++++++
+Updated UI Elements where needed
+Map Editor from Portal 2
+
+Class Restructures||
+    Heavy
+        Health reup + item spawn rate ++
+        Movement items?
+            roller skates idea from disc board
+            shoot, fly back, shoot to front line, but
+                use all ammo
+        Equalize movement and damage output, X1.285dg
+        Reduce requirements for medic snag
+        10 phases of every other class, except heavy :(
+
+    Pyro
+        Make Flamethrower inconsistant
+            "Electric" throwers can shock users
+            Gas throwers can burn users
+            When fails, lose 5 fuel, halt fire 1 sec
+            Fails with rollover counter unseen by player
+                Cools down over time
+            Flares shoot duds, does impact damage, bonk?
+
+    Medic
+        Give this poor man something else to do
+
+
+
+Map Editor
+    Biggest issue is ground displacements, before anything else
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
