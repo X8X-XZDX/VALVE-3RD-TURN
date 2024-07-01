@@ -36,6 +36,10 @@ Map Editor
     Biggest issue is ground displacements, before anything else
 
 
+Reasons for Map Editor+
++++++++++++++++++++++++
+
+Modding should be community wide accessible.  Hammer is not a good tool for new users, but is absolutely available should anyone want it.  Instead, we should try to start integrating some easier tools, some already available.  The P2ME would be perfect because of its useability, at least as a starting foundation block to work from.
 
 
 
