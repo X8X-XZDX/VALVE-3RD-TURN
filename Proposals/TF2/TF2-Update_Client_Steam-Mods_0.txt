@@ -42,7 +42,14 @@ Reasons for Map Editor+
 Modding should be community wide accessible.  Hammer is not a good tool for new users, but is absolutely available should anyone want it.  Instead, we should try to start integrating some easier tools, some already available.  The P2ME would be perfect because of its useability, at least as a starting foundation block to work from.
 
 
+Other Notes+
+++++++++++++
 
+Map Player Densities V Player Types
+(Turtle Engie V Battle Engie)
+(Friendly V Warrior)
+
+In game stats?
 
 
 
