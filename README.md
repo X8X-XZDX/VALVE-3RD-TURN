@@ -19,7 +19,9 @@ The basis for this github is for Users of Steam / Valve Products, who have a pro
 
 The problem, as it stands, is not based on any one specific issue, but a number of issues that are tangled together, making rather large messes for users, developers, and in-office staff alike.
 
-This Github is founded in order to create real feedback, with signatures, saying what is or is not liked about the platform, and what the Users think should be worked on.  In a sense, if Valve were to enter a bad scenario and users were to lose their software licenses, they would have no way to recover the funds spent.
+This Github is founded in order to create real feedback, with signatures, saying what is or is not liked about the platform, and what the Users think should be worked on.  If you want to help, and make a real change, please, contribute to the repo.
+
+If you want to add a proposal, send one.  If you have ANY issue with steam, valve, the games from Valve specifically, or your user experience compared to other platforms, PLEASE, make a contribution on the issues page.  The community can rank them.
 
 With this feedback loop for Valve, it is hoped that with more End-User perspectives, bad-to-worst case scenarios can be avoided, and the platform be built on user contributions, just like in years past working with mod teams.
 
