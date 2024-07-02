@@ -23,7 +23,11 @@
 | Comp | . | . |
 | Community | . | 1 |
 
-
+| Chat Clouseouts | Steam | Discord | Twitch | In-Game | Banned fr Socials |
+|-----------------|-------|---------|--------|---------|-------------------|
+| Brie | X | . | . | . | . |
+| UDane | . | X | X | . | X |
+| SquimJim | . | X | . | x | . |
 
 
 
