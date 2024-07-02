@@ -1,14 +1,18 @@
 Author:  X8X_XZDX
 
+////////////////////////////////////////////////////////////////
 
-WIP
+# Valve's 3rd Turn
 
+### A Proposal to Reintegrate Community and Mods into Valve's Core Structure, with Monetary Value Increased for Both User and Company Alike.
 
-Proposal to Angle Steam Towards Steam Deck Development + Users w/ Benefits to Whole Steam Userbase
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-Reasons -- Clarity + Communication, to all users, Increased End User Value, Steam Deck Monetization Routes, Reintegration of Modding into Steam Culture
+| Short Summary |
 
-Interface -- Steam + ModHub
+Reintegrating the Community via Steam back into the core structure of Valve would not only enable them to have an almost inane stream of ideas moving at all times to pick from, they would be able to build Sales around Steam and the Steam Deck, should Community Interaction become the Forefront of the platform.  This would involve a large focus on the Steam Deck, Platform Interaction, Modding, and integrating a better modding platform for end users, such as Gitlab, and a "Steam Modhub" client, similar to a Github Desktop Client.  Though, instead of just having a "push" button, on top of this new mod structure, there should be a fast, Twitter-Like social media platform for interaction.  Mastodon, for example.
+
+For a short time, access to this new structure can be limited to Steam Deck only, maybe 1 to 2 years, in order to pump money into the next development cycle of the Steam Deck, and support new development.  This can be made reliable with a low cost Steam Deck made available for sale that only drops in price with newer hardware iterations.
 
 
 | Thesis |
@@ -18,10 +22,15 @@ There are a few elements when thinking about the future of Valve.
 
 
 1.  Business Decisions
+
 2.  Market Dominance
+
 3.  Hardware and Software Developement
+
 4.  Their effect on the rest of the market
+
 5.  The Market's Effect on Them
+
 6.  Keeping Pace with Competitors Design / Setting a New Pace
 
 
@@ -39,8 +48,9 @@ First party developers often have a hardware platform, a store to sell the softw
 
 We all know this, this is why they have a solid dominance over platforms like Desura, GOG, and even Epic Games.
 
-With this comes an added bonus that they have started designing their own hardware at Valve with the Steam Deck, the Valve Index, and even having a hand in helping with the HTC Vive.
+With this comes an added bonus that they have started designing their own hardware at Valve with the Steam Deck, the Valve Index, and even having a hand in helping with the HTC Vive.  This largely increases their Brand, and Notoriety with the community.  On top of availability of Schematics to repair Hardware were it to break, they make parts available to purchase on their platform.  This is a sign of good business.
 
+Some hardware manufacturers have decided to even make compatible devices that can attach via Steam Link.  The higher availability of hardware similar to the Steam Deck means that Valve still has a Large Grip on the market.
 
 
 
