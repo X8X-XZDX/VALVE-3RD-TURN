@@ -1,0 +1,49 @@
+Author:  X8X_XZDX
+
+
+WIP
+
+
+Proposal to Angle Steam Towards Steam Deck Development + Users w/ Benefits to Whole Steam Userbase
+
+Reasons -- Clarity + Communication, to all users, Increased End User Value, Steam Deck Monetization Routes, Reintegration of Modding into Steam Culture
+
+Interface -- Steam + ModHub
+
+
+| Thesis |
+
+
+There are a few elements when thinking about the future of Valve.
+
+
+1.  Business Decisions
+2.  Market Dominance
+3.  Hardware and Software Developement
+4.  Their effect on the rest of the market
+5.  The Market's Effect on Them
+6.  Keeping Pace with Competitors Design / Setting a New Pace
+
+
+In the beginning, Valve became knows for their form of operation.  Today we would recognize this as basically github, but back in the days of SVN and passing CD's around offices, this was unheard of.
+
+Not only did every employee have the ability to collaborate with each other, everyone working on something in a major group had their collaboration happen IN PERSON, rather than across an email chain spread throughout the office.  Supposedly this is how it still works; however, due to some reports from contractors, and developers who decided to quit, there was an in-office element in recent years of employees not being "Real Valve", and therefore recieving demoted duties.
+
+This is vastly different to the Valve that most are familiar with, and has been largely ignored by the masses, it seems, despite reports coming out thru sources like VNN and others that Valve have a trusting relationship with.
+
+Despite these issues, Valve maintains a market dominance unlike any other.  And for good reason.  Their percentages in sales are standard to the letter of the law, 30\70 split plus a posting fee.  This is much better than some of their competitors, or even trying to run a site yourself to sell a game and running an ad campaign.  All of your advertising is integrated, and they even allow you a certain number of keys to sell off platform, assuming that new users will be coming TO the platform with those keys.  The only agreement is that you must match your steam price.
+
+This is why you often see humble bundle packs have Non-AAA games sold, these developers are allowed to sell these keys per Steam's TOS.
+
+First party developers often have a hardware platform, a store to sell the software on the hardware, and many permutations from then on.  The advantage that Steam has over those First Party Hosts, however, is spreading outside of just a proprietary market, but to every PC that it could be installed to.
+
+We all know this, this is why they have a solid dominance over platforms like Desura, GOG, and even Epic Games.
+
+With this comes an added bonus that they have started designing their own hardware at Valve with the Steam Deck, the Valve Index, and even having a hand in helping with the HTC Vive.
+
+
+
+
+
+
+
