@@ -17,46 +17,82 @@ Interface -- Steam + ModHub
 There are a few elements when thinking about the future of Valve.
 
 1 Hardware Development
+
     1a. Developing the Steam Deck
+
         1aa. Hardware Research
+
         1ab. Hardware Development
+
         1ac. Hardware Testing
+
         1ad. Hardware Production
+
         1ae. Stock Maintenance
+
         1af. Initial Sale Flyoff
+
         1ag. Maintained Stock (Chip Shortage Risk)
+
     1b. Hardware Changes for VR
+
         1ba. Valve Index Updates
-        1bb. Steam Deck + Valve Index compatibility Potential / Other VR Headsets
+
+        1bb. Steam Deck +
+
+        1bc. Valve Index compatibility Potential / Other VR Headsets
+
     1c. Hardware Investments, Company AND User End
+
         1ca. Company invests in Hardware Expandability and Modding
+
         1cb. Users Mod + Dev on Hardware Released
+
             1cba. Users post to User Mod Forum, a Modhub
+
             1cbb. Modhub is Valve Github, can have its own client
+
                 1cbba. Greenlight with key
+
             1cbc. Users use Modhub instead of Workshop to POST content
+
             1cbd. END-USERS download thru a trimmed down modhub
+
             1cbe. Feedback can be applied as fast as the file was retrieved thru modhub
 
 2 Software Availability
+
     2a. Modhub enabled accounts get source 1 sdk suite
+
         2aa. Gmod, TF2, CSS, CSGO files packed with hammer + modhub
+
         2ab. Portal?  IDK
+
+
     2b. Other software available on steam good for use on steam deck, such as OBS, blender, a photo or video editor, RPG Maker 2003, etc
+
     2c. Dockability + Portability make for good dev at home, on the go, on top of basic hardware for testing
+
         2ca.  Add in potential VR + "virtual" displays, good PC in a pinch for streamers at vidcon etc to grab at best buy or something (Apple store, idk)
+
     2d. Mods anywhere any time
 
 3 Streaming + Social Media
-    2a. Valve notorious for not communicating
-        2aa. Make communication with valve normal thru modhub
-        2ab.  Allow employees at Valve with literally any reason to stream on the broadcast network to do so, especially if a coworker is harrassing them at work
-            2aba. End-User streamers MUST be allowed multistream if no rev deal are ever made
-        2ac. Import new social media to steam, replacing discussions
-            2aca. Import literally anything, mastodon at this pont
-            2acb. Make communication basically effortless.  MSN is the direct chat, where the social media should be basically twitter.
+    3a. Valve notorious for not communicating
+
+        3aa. Make communication with valve normal thru modhub
+
+        3ab.  Allow employees at Valve with literally any reason to stream on the broadcast network to do so, especially if a coworker is harrassing them at work
+
+            3aba. End-User streamers MUST be allowed multistream if no rev deal are ever made
+
+        3ac. Import new social media to steam, replacing discussions
+            3aca. Import literally anything, mastodon at this pont
+
+            3acb. Make communication basically effortless.  MSN is the direct chat, where the social media should be basically twitter.
 
 4 Other
+
     4a.  Stop looking like Newgrounds.com my god.
 
 Following that, it is KEY for Valve to be careful in its funding with future hardware updates, hardware changes making supply reups take time, and the ability to restock outlier areas for distribution of that hardware, etc.
