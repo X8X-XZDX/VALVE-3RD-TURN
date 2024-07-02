@@ -1,6 +1,6 @@
 # VALVE-3RD-TURN
 
-### DISCLAIMER:  This is meant to be a project for the ENTIRE STEAM COMMUNITY.  If a rebase to another repo is needed for a "noncempetitive" use, fair.
+### DISCLAIMER:  This is meant to be a project for the ENTIRE STEAM COMMUNITY.  If a rebase to another repo is needed for a "noncsmpetitive" use, fair.
 
 #FREEVALVE  https://discord.gg/q7RYfmje
 https://steamcommunity.com/app/440/discussions/0/4406290986178481007/
