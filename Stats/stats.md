@@ -16,4 +16,17 @@
 
 **Rejection meaning said no.  Could follow ban.
 
+
+| Servers open to hearing about | #V3T | Github + Steam Deck Concept |
+|-------------------------------|------|-----------------------------|
+| Casual | 1 | 1 |
+| Comp | . | . |
+| Community | . | 1 |
+
+
+
+
+
+
+
 Notated by XZDX
