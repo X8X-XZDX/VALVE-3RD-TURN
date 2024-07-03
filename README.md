@@ -2,7 +2,7 @@
 
 ### DISCLAIMER:  This is meant to be a project for the ENTIRE STEAM COMMUNITY.  If a rebase to another repo is needed for a "noncsmpetitive" use, fair.
 
-#FREEVALVE  https://discord.gg/q7RYfmje
+#FREEVALVE #OpenTheSource #FixSteam #SaveTF2  https://discord.gg/q7RYfmje
 https://steamcommunity.com/app/440/discussions/0/4406290986178481007/
 
 
