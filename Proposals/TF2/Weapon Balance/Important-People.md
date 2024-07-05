@@ -1,3 +1,0 @@
-WIP
-
-Needed:  Item creators
